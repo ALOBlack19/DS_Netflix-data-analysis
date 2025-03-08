@@ -1,6 +1,6 @@
 # 🎬 Netflix Data Analysis  
 
-This project explores Netflix's catalog using **Pandas** and **Matplotlib** to analyze trends, clean data, and handle missing values. Originally developed in a Jupyter Notebook, it has now been converted into a standalone Python script for easier execution.  
+This project explores Netflix's catalog using **Pandas** and **Matplotlib** to analyze trends, clean data, and handle missing values. Originally developed in a Jupyter Notebook, it has now been converted into a standalone Python script for easier execution. However, the Python notebook is also in the repository if you want to test  it.
 
 ## 📊 Project Overview  
 This analysis covers:  
